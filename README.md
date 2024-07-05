@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-<p><img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedrocovre22&show_icons=true&theme=react&locale=en&layout=compact" alt="pedrocovre22" /></p>
+<p><img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedrocovre22&show_icons=true&theme=react&locale=en&layout=compact&hide_border=true" alt="pedrocovre22" /></p>
 
 
 <h3 align="left">Languages and Tools:</h3>
