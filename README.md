@@ -4,7 +4,7 @@
   <img align="right" width="358"src=https://media1.tenor.com/m/gNWAwcobzxsAAAAC/luffy-rindo-muito-luffy.gif>
 </div>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **React**
 
 <p><img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedrocovre22&show_icons=true&theme=react&locale=en&layout=compact&hide_border=true" alt="pedrocovre22" /></p>
 
